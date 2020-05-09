@@ -1,6 +1,6 @@
 package com.jaffar;
 
- class task_B {
+class task_B {
     public static void main(String[] args) {
         MailMessage send1 = new MailMessage();
         send1.SendMailMessage();
